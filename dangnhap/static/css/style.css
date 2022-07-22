@@ -1,0 +1,7 @@
+body{
+    background-color: blue;
+}
+
+.hinhnen{
+    background: url("/static/img/hinhnen.jpg") 50% 0 no-repeat fixed;
+}
